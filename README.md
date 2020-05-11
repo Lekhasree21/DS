@@ -10,3 +10,4 @@ This script is used to scrape the list of Top 50 movies from year your choice  t
 ## Execution
 ``` python IMDB_Top50_Scraper.py ```
 
+python IMDB_Top50_Scraper.py
